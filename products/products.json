@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Donarc Electrodes - 12 SWG",
+        "type": "Electrodes",
+        "quantity": "1080 pieces"
+    },
+    {
+        "name": "Donarc Electrodes - 10 SWG",
+        "type": "Electrodes",
+        "quantity": "720 pieces"
+    },
+    {
+        "name": "Donarc Electrodes - 8 SWG",
+        "type": "Electrodes",
+        "quantity": "480 pieces"
+    },
+    {
+        "name": "Donarc MIG Wire - 0.8 mm",
+        "type": "MIG Wire",
+        "quantity": "12.5 kg spool"
+    },
+    {
+        "name": "Donarc MIG Wire - 1.2 mm",
+        "type": "MIG Wire",
+        "quantity": "15 kg spool"
+    }
+]
